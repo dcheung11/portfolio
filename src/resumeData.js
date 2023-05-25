@@ -135,7 +135,7 @@ let resumeData = {
       description: "Data project",
       imgurl: ChessPic,
       // link: "https://spotify-top-99.web.app/",
-      githubLink: "https://github.com/dcheung11/chess.com-calculator-python",
+      githubLink: "https://github.com/dcheung11/chess.com-data-analysis-python",
     },
     {
       name: "Scoop Me Carpool Android App",
